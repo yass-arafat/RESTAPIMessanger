@@ -1,4 +1,4 @@
-package com.yassir.restapimessanger.restapimessanger001;
+package com.yassir.restapimessanger.restapimessanger002;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
